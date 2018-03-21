@@ -1,7 +1,5 @@
 #字符串匹配的KMP算法
 
-作者： [阮一峰](http://www.ruanyifeng.com/home.html)
-
 [字符串匹配](http://en.wikipedia.org/wiki/String_searching_algorithm)是计算机的基本任务之一。
 
 举例来说，有一个字符串"BBC ABCDAB ABCDABCDABDE"，我想知道，里面是否包含另一个字符串"ABCDABD"？

@@ -1,7 +1,5 @@
 #字符串匹配的Boyer-Moore算法
 
-作者： [阮一峰](www.ruanyifeng.com)
-
 上一篇文章，我介绍了[KMP算法](KMP.md)。
 
 但是，它并不是效率最高的算法，实际采用并不多。各种文本编辑器的"查找"功能（Ctrl+F）[[1](#1)]，大多采用[Boyer-Moore算法](http://en.wikipedia.org/wiki/Boyer%E2%80%93Moore_string_search_algorithm)（简称BM算法）。
